@@ -4,7 +4,7 @@ This repository contains a list of helpful resources, links, videos, code snippe
 
 ## Contents
 
-* [Android &amp; Web Resources](#android_web_resources)
+### Android &amp; Web Resources
 
   * [Android](#)
 
@@ -12,21 +12,21 @@ This repository contains a list of helpful resources, links, videos, code snippe
 
   * [Web](#)
 
-* [Job Sites](#)
+### Job Sites
    
   * [Kazi Plus](https://kaziplus.com/)
 
   * [iHub](https://ihub.co.ke/jobs)
 
-* [Developer Groups](#)
+### Developer Groups
 
   * [Mobigirlz](#)
 
   * [GDG](#)
 
-* [Influential Tech Twitter Accounts &amp personalities](#)
+### Influential Tech Twitter Accounts &amp personalities
 
-* [@eMobilis)](#)
+* [eMobilis (@eMobilis)](https://twitter.com/emobilis) - eMobilis Mobile Technology Training Institute
 
 ### Web
 
@@ -38,10 +38,8 @@ This repository contains a list of helpful resources, links, videos, code snippe
 
 * [Kotlin](#)
 
-### Developer Groups
+* [Java](#)
 
-### Twitter
 
-* [eMobilis (@eMobilis)](https://twitter.com/emobilis) - eMobilis Mobile Technology Training Institute
 
 ### Google Developer Groups
