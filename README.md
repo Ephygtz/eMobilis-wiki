@@ -1,6 +1,6 @@
-# eMobilis=wiki
+# eMobilis wiki
 
-This repository contains a list of helpful resources, links, videos, code snippets, job sites, cutting-edge-tech companies to work for as a junior dev. The aim is to have a centralized location for sharing information with and among students and alumnis.
+This repository contains a list of helpful resources, links, videos, code snippets, job sites, cutting-edge-tech companies to work for as a junior dev. The aim is to have a centralized location for sharing information with and among students and alumnus.
 
 ## Contents
 
@@ -8,13 +8,15 @@ This repository contains a list of helpful resources, links, videos, code snippe
 
   * [Android](#)
 
+  	* [Google Developers Training](https://developers.google.com/training/courses/android-fundamentals)
+
   * [Web](#)
 
 * [Job Sites](#)
    
-  * [Web](#)
+  * [Kazi Plus](https://kaziplus.com/)
 
-  * [Mobile](#)
+  * [iHub](https://ihub.co.ke/jobs)
 
 * [Developer Groups](#)
 
@@ -40,6 +42,6 @@ This repository contains a list of helpful resources, links, videos, code snippe
 
 ### Twitter
 
-* [eMobilis (@eMobilis)](https://twitter.com/ephygitz) - eMobilis Mobile Technology Training Institute
+* [eMobilis (@eMobilis)](https://twitter.com/emobilis) - eMobilis Mobile Technology Training Institute
 
 ### Google Developer Groups
